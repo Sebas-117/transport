@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TransporteEscolar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#0D6EFD</item>
+        <item name="colorPrimaryDark">#0A58CA</item>
+        <item name="colorAccent">#0D6EFD</item>
+        <item name="android:statusBarColor">#0A58CA</item>
+        <item name="android:navigationBarColor">#0A58CA</item>
+        <item name="android:windowBackground">#0D6EFD</item>
+    </style>
+</resources>
